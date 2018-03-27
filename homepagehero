@@ -1,0 +1,19 @@
+.front-hero-text h1 {
+	color: #211a23;
+	float: right;
+	font-size: 40px;
+	line-height: 55px;
+	margin-top: 40px;
+	padding: 5px 15px;
+	background: rgba(244,244,244,0.5);
+	box-shadow: 0px 0px 42px 19px rgba(244, 244, 244, 0.53);
+}
+
+.front-hero-text p {
+	color: #211a23;
+	font-size: 30px;
+	line-height: 35px;
+	padding: 5px 15px;
+	background: rgba(244,244,244,0.5);
+	box-shadow: 0px 0px 42px 19px rgba(244, 244, 244, 0.53);
+}
